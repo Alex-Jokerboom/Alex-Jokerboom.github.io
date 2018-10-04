@@ -1,0 +1,35 @@
+h1{
+	color: rgb(52,356,123);
+}
+h2{
+	color: rgb(52,356,123);
+}
+h3{
+	color: rgb(52,356,123);
+}
+h4{
+	color: rgb(52,356,123);
+}
+h5{
+	color: rgb(52,356,123);
+}
+p{
+	color: rgb(252,55,178);
+	width: 70%;
+	height: 90%;
+
+}
+img {
+	width: 70%;
+	opacity:.6;
+}
+body{
+	background-image: url("5 copy.jpg");
+}
+ol{
+	background-color: rgb(23,21,66);
+	width: 50%;
+}
+li{
+	color: rgb(162,52,34);
+}
