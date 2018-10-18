@@ -133,5 +133,195 @@ div {
    background-color: rgb(217,217,217);
 }
 
+
+.e {
+
 }
 
+.e1 {
+  top: 40px;
+  left: 850px;
+  background-color: rgb(255,255,255);
+}
+.e2 {
+  top: 40px;
+  left: 1056px;
+  background-color: rgb(255,255,255);
+}
+
+.e3 {
+ top: 280px;
+  left: 865px;
+  background-color: rgb(255,255,255);
+}
+.e4 {
+ top: 280px;
+  left: 999px;        
+   transform: skew(20deg);
+  background-color: rgb(255,255,255);
+}
+.e5 {
+ top: 40px;
+  left: 925px;        
+   transform: skew(20deg);
+  background-color: rgb(255,255,255);
+}
+.e6 {
+  top: 240px;
+  left:858px;
+   width: 40px;
+      height: 40px;
+      transform: skew(20deg);
+   background-color: rgb(217,217,217);
+}
+.e7 {
+  top: 240px;
+  left:962px;
+   width: 40px;
+      height: 40px;
+  
+   background-color: rgb(217,217,217);
+}
+.e8{
+ top: 280px;
+  left: 1070px;
+  background-color: rgb(255,255,255);
+}
+.e9 {
+top: 240px;
+  left:1064px;
+   width: 40px;
+      height: 40px;
+      transform: skew(20deg);
+   background-color: rgb(217,217,217);
+}
+.e10 {
+  top: 0px;
+  left:890px;
+   width: 40px;
+      height: 40px;
+  
+   background-color: rgb(217,217,217);
+}
+.e11 {
+  top: 0px;
+  left:843px;
+   width: 40px;
+      height: 40px;
+      transform: skew(20deg);
+   background-color: rgb(217,217,217);
+}
+.e12 {
+  top: 0px;
+  left:1063px;
+   width: 40px;
+      height: 40px;
+      transform: skew(160deg);
+   background-color: rgb(217,217,217);
+}
+
+
+.f {
+ 
+
+}
+
+.f1 {
+top: 40px;
+  left:1183px;
+   width: 40px;
+      height: 100px;
+      transform: skew(140deg);
+   background-color: rgb(255,255,255);
+}
+.f2 {
+  top: 140px;
+  left: 1142px;
+  background-color: rgb(217,217,217);
+}
+
+.f3 {
+ top: 0px;
+  left: 1225px;
+   width: 240px;
+      height: 40px;
+  background-color: rgb(217,217,217);
+}
+.f4 {
+ top: 440px;
+  left: 1225px;
+   width: 240px;
+      height: 40px;
+  background-color: rgb(217,217,217);
+}
+.f5 {
+top: 340px;
+  left:1184px;
+   width: 40px;
+      height: 100px;
+      transform: skew(40deg);
+   background-color: rgb(255,255,255);
+}
+.f6 {
+  
+top: 340px;
+  left:1467px;
+   width: 40px;
+      height: 100px;
+      transform: skew(140deg);
+   background-color: rgb(255,255,255);
+}
+.f7 {
+top: 260px;
+  left:1510px;
+   width: 40px;
+      height: 80px;
+  
+   background-color: rgb(217,217,217);
+}
+
+.f8{
+  top: 220px;
+  left:1431px;
+   width: 100px;
+      height: 40px;
+      transform: skew(40deg);
+   background-color: rgb(255,255,255);
+}
+
+.q1 {
+  top: 0px;
+  left: 1613px;
+   width: 280px;
+      height: 40px;
+      transform: skew(20deg);
+  background-color: rgb(217,217,217);
+}
+.q2 {
+  top: 40px;
+  left: 1620px;
+  background-color: rgb(255,255,255);
+}
+.q3 {
+  top: 240px;
+  left: 1627px;
+   width: 280px;
+      height: 40px;
+      transform: skew(20deg);
+  background-color: rgb(217,217,217);
+}
+.q4 {
+  top: 280px;
+  left: 1635px;
+   height: 160px;
+  background-color: rgb(255,255,255);
+}
+.q5 {
+  top: 440px;
+  left: 1643px;
+   width: 280px;
+      height: 40px;
+      transform: skew(20deg);
+  background-color: rgb(217,217,217);
+}
+}
