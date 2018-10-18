@@ -1,0 +1,139 @@
+
+div {
+  position: absolute;
+   width: 40px;
+  height: 200px
+}
+
+.a {
+ 
+  background-color: rgb(255,255,255);
+}
+
+.a1 {
+  top: 40px;
+  left: 80px;
+  background-color: rgb(255,255,255);
+}
+.a2 {
+  top: 40px;
+  left: 300px;
+  background-color: rgb(255,255,255);
+}
+
+.a3 {
+ top: 280px;
+  left: 95px;
+  background-color: rgb(255,255,255);
+}
+.a4 {
+ top: 280px;
+  left: 350px;
+   transform: skew(20deg);
+  background-color: rgb(255,255,255);
+}
+
+.b {
+ 
+  background-color: rgb(217,217,217);
+}
+.b1 {
+  top: 0px;
+  left: 73px;
+   width: 250px;
+      height: 40px;
+      transform: skew(20deg);
+  background-color: rgb(217,217,217);
+}
+.b2 {
+  top: 0px;
+  left:293px;
+   width: 40px;
+      height: 40px;
+      transform: skew(20deg);
+   background-color: rgb(217,217,217);
+}
+.b3 {
+  top: 240px;
+  left: 87px;
+   width: 250px;
+      height: 40px;
+      transform: skew(20deg);
+  background-color: rgb(217,217,217);
+}
+.b4 {
+  top: 240px;
+  left:307px;
+   width: 40px;
+      height: 40px;
+      transform: skew(20deg);
+   background-color: rgb(217,217,217);
+}
+.c{
+ 
+  background-color: rgb(255,255,255);
+}
+
+.c1 {
+  top: 40px;
+  left: 500px;
+  background-color: rgb(255,255,255);
+}
+.c2 {
+  top: 40px;
+  left: 700px;
+  background-color: rgb(255,255,255);
+}
+
+.c3 {
+ top: 280px;
+  left: 477px;
+   transform: skew(-20deg);
+  background-color: rgb(255,255,255);
+}
+.c4 {
+ top: 280px;
+  left: 750px;
+   transform: skew(20deg);
+  background-color: rgb(255,255,255);
+}
+
+.d {
+ 
+  background-color: rgb(217,217,217);
+}
+.d1 {
+  top: 0px;
+  left: 493px;
+   width: 240px;
+      height: 40px;
+      transform: skew(20deg);
+  background-color: rgb(217,217,217);
+}
+.d2 {
+  top: 0px;
+  left:293px;
+   width: 40px;
+      height: 40px;
+      transform: skew(20deg);
+   background-color: rgb(217,217,217);
+}
+.d3 {
+  top: 240px;
+  left: 507px;
+   width: 240px;
+      height: 40px;
+      transform: skew(20deg);
+  background-color: rgb(217,217,217);
+}
+.d4 {
+  top: 240px;
+  left:307px;
+   width: 40px;
+      height: 40px;
+      transform: skew(20deg);
+   background-color: rgb(217,217,217);
+}
+
+}
+
