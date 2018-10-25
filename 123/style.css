@@ -3,7 +3,17 @@ div {
   position: absolute;
    width: 40px;
   height: 200px
+
 }
+p{
+  position: absolute;
+  top: 520px;
+  left: 100px;
+  font-family: Verdana;
+  font-size:28px;
+  line-height:20px;
+}
+
 
 .a {
 
@@ -156,7 +166,7 @@ div {
 }
 .e4 {
  top: 280px;
-  left: 999px;        
+  left: 998px;        
    transform: skew(20deg);
   background-color: rgb(255,255,255);
 }
@@ -176,8 +186,8 @@ div {
 }
 .e7 {
   top: 240px;
-  left:962px;
-   width: 40px;
+  left:961px;
+   width: 41px;
       height: 40px;
   
    background-color: rgb(217,217,217);
@@ -189,8 +199,8 @@ div {
 }
 .e9 {
 top: 240px;
-  left:1064px;
-   width: 40px;
+  left:1063px;
+   width: 41px;
       height: 40px;
       transform: skew(20deg);
    background-color: rgb(217,217,217);
@@ -364,5 +374,73 @@ top: 140px;
       height: 40px;
      
   background-color: rgb(217,217,217);
+}
+.w6 {
+  top: 580px;
+  left: 100px;
+   width: 280px;
+      height: 40px;
+     transform: skew(-140deg);
+  background-color: rgb(217,217,217);
+}
+
+.w7 {
+  top: 580px;
+  left: 380px;
+   width: 280px;
+      height: 40px;
+     transform: skew(40deg);
+  background-color: rgb(255,255,255);
+}
+.w8 {
+  top: 580px;
+  left: 660px;
+   width: 280px;
+      height: 40px;
+     transform: skew(-140deg);
+  background-color: rgb(217,217,217);
+}
+
+.w9 {
+  top: 580px;
+  left: 940px;
+   width: 280px;
+      height: 40px;
+     transform: skew(40deg);
+  background-color: rgb(255,255,255);
+}
+.w10 {
+  top: 580px;
+  left: 1220px;
+   width: 280px;
+      height: 40px;
+     transform: skew(-140deg);
+  background-color: rgb(217,217,217);
+}
+
+.w11 {
+  top: 580px;
+  left: 1500px;
+   width: 280px;
+      height: 40px;
+     transform: skew(40deg);
+  background-color: rgb(255,255,255);
+}
+.w12 {
+  top: 580px;
+  left: 1780px;
+   width: 280px;
+      height: 40px;
+     transform: skew(-140deg);
+  background-color: rgb(217,217,217);
+}
+
+.w13 {
+  top: 580px;
+  left: 2060px;
+   width: 280px;
+      height: 40px;
+     transform: skew(40deg);
+  background-color: rgb(255,255,255);
 }
 }
