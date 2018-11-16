@@ -1,0 +1,32 @@
+
+div {
+  position: absolute;
+   width: 40px;
+  height: 200px
+}
+.bg-pic {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100vw;
+	height:100vw;
+	background-image:url("bg.jpg");
+	background-size:cover;
+	background-position:center;
+
+}
+
+.text1{
+	position:absolute;
+	top:300px;
+	left:100px;
+	font-size:64px;
+}
+
+.extrainfo{
+	position:absolute;
+	top:100vw;
+	left:100vw;
+	font-size:32px;
+	margin-top:40px;
+}
