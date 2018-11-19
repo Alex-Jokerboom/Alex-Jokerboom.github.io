@@ -23,6 +23,7 @@ font-style: normal;
 	background-position:center;
 
 }
+
 .bf-pic {
   position:absolute;
   top:1100px;
@@ -105,14 +106,46 @@ font-style: normal;
 
 
 @media  (max-width: 500px) {
-	.title{
-		font-size: 40px;}
-	.p3{font-size: 30px;}
+	.title{position: absolute;
+		top:430px;
+		left: 20px;
+		color: rgb(0,0,0);
+		font-size: 30px;}
+	.p3{position: absolute;
+		top :470px;
+		left: 20px;
+		color: rgb(0,0,0);
+		font-size: 30px;}
 
-	.p5{font-size: 30px;}
+	.p5{position: absolute;
+		top :550px;
+		left: 20px;
+		color: rgb(0,0,0);
+		font-size: 30px;}
 	
-	.p13{font-size: 30px;}
+	.p12{position: absolute;
+		top :510px;
+		left: 20px;
+		color: rgb(0,0,0);
+		font-size: 30px;
+		font-size: 30px;}
 .bg-pic{
 		background-image: url("1.jpg");
+
 	}
+	.screen {
+  position: absolute;
+  top:0px;
+  left:0px;
+  width:100vw;
+  height:100vw;
+  opacity: 0.3;
+  background-image: url("2.gif"); 
+  background-size: cover; 
+  background-position: center; 
+}
+
+.screen:hover {
+  background-image: url("3.png"); 
+}
 }
