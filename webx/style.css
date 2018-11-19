@@ -1,7 +1,7 @@
 .title{
 	position: absolute;
-	left: 1000px;
-	top: 1200px;
+	left: 230px;
+	top: 300px;
 	font-size: 7vw;
 	color: rgb(218,112,214);
 font-family: lores-12, sans-serif;
@@ -25,10 +25,10 @@ font-style: normal;
 }
 .bf-pic {
   position:absolute;
-  top:4200px;
-  left:1900px;
-  width:27vw;
-  height:27vw;
+  top:1100px;
+  left:470px;
+  width:30vw;
+  height:30vw;
   background-image:url("2.png");
   background-size:cover;
   background-position:center;
@@ -37,9 +37,8 @@ font-style: normal;
 
 .screen {
   position: absolute;
-  top:4200px;
-top:1670px;
-  left:1360px;
+  top:420px;
+  left:340px;
   width:47vw;
   height:37vw;
   background-image: url("2.gif"); 
@@ -64,8 +63,8 @@ top:1670px;
 
 .p5{
 	position: absolute;
-	top: 3000px;
-  left: 1700px;
+	top: 800px;
+  left: 400px;
 	font-size: 3vw;
 	color: rgb(256,256,256);
 font-family: lores-12, sans-serif;
@@ -78,8 +77,8 @@ font-style: normal;
 
 .p12{
 	position: absolute;
-	top: 2500px;
-	left: 2900px;
+	top: 680px;
+	left: 430px;
 	font-size: 3vw;
 	color: rgb(256,256,256);
 font-family: lores-12, sans-serif;
@@ -93,8 +92,8 @@ font-style: normal;
 
 .p3{
 	position: absolute;
-	top: 2500px;
-	left: 1700px;
+	top: 680px;
+	left: 570px;
 	font-size: 3vw;
 	color: rgb(256,256,256);
 font-family: lores-12, sans-serif;
@@ -105,18 +104,14 @@ font-style: normal;
 }
 
 
-@media screen and  (max-width: 500px) {
+@media  (max-width: 500px) {
 	.title{
-		font-size: 154px;}
-	.p1{font-size: 54px;}
-	.p2{font-size: 54px;}
-	.p3{font-size: 54px;}
-	.p4{font-size: 54px;}
-	.p5{font-size: 54px;}
-	.p11{font-size: 54px;}
-	.p12{font-size: 54px;}
-	.p13{font-size: 54px;}
-.p{font-size: 54px;}
+		font-size: 40px;}
+	.p3{font-size: 30px;}
+
+	.p5{font-size: 30px;}
+	
+	.p13{font-size: 30px;}
 .bg-pic{
 		background-image: url("1.jpg");
 	}
