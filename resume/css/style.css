@@ -1,0 +1,108 @@
+﻿
+
+/*----------------------common-------------------------*/
+*{margin:0; padding:0; font-family:Arial, Helvetica, sans-serif}
+.clear{ clear:both;}
+.fl{ float:left;}
+.fr{ float:right;}
+img{ border:none;}
+a{ text-decoration:none;}
+a:hover{ text-decoration:none;}
+li{ list-style-type:none;}
+.ofh{overflow:hidden;}
+.p5{ padding:5px;}
+
+.pt30{ padding-top:30px;}
+.pt40{ padding-top:40px;}
+.pt50{ padding-top:50px;}
+
+.center{ text-align:center;}
+.em{ text-indent:2em;}
+body{ background:url(../images/bj.jpg) top center fixed no-repeat;}
+
+
+/*----------------head-----------------*/
+.head{width:100%; height:auto; min-height:400px; margin:auto;background:url(../images/head.jpg) top center no-repeat ;background-size:100% 100%; }
+.head_in{ width:900px; height:auto; padding-top:50px; margin:auto;}
+.logo h1{ font-size:66px; line-height:80px; padding:30px; color:#fff;}
+.logo h2{ font-size:36px; line-height:50px; padding:10px; color:#fff; text-align:right;}
+
+.nav{ width:1000px; height:40px; margin:30px auto;}
+.nav ul{ padding-left:30px;}
+.nav li{ float:left; padding:5px 40px; margin:5px; }
+.nav li a{ font-size:30px; line-height:50px; color:#fff;}
+.nav li a:hover{ color:#eee; text-decoration:none;}
+.nav li:hover{ background-color:#000}
+.nav li:hover a{ color:#eee;}
+
+.main{ width:1100px; height:auto; padding:20px 0px; margin:auto;}
+
+
+.jianjie{width:100%; height:auto; min-height:500px; margin: auto;background:#fff; }
+.jianjie_in{ width:1000px; height:auto; padding:50px 0px; margin:auto;}
+.jianjie_inl{width:450px; height:auto; float:left; }
+.jianjie_inl img{width:450px; border:5px solid #ddd;-moz-border-radius:10px;border-radius:10px;}
+.jianjie_inr{ position:absolute;width:550px; margin-left:500px;}
+.jianjie_inr p{ font-size:24px; line-height:30px; color:#555;}
+.jianjie_inr p strong{ font-size:24px; line-height:50px; color:#222222;}
+.jianjie_inr a{ font-size:22px; line-height:30px; color:#333;}
+.jianjie_inr a:hover{ font-size:22px; line-height:30px; color:#f00;}
+
+.title{font-size:50px; color:#222; line-height:80px; text-align:center; font-family:"Times New Roman", Times, serif; border-bottom:1px  dotted #000; margin:20px auto;}
+.titleb{font-size:35px; color:#222; line-height:80px; text-align:left; font-family:"Times New Roman", Times, serif; }
+
+
+
+.qa_topic{ width:750px; height:auto; margin-top:-30px;float:right;}
+.qa_topic_div{ width:750px; height:40px; border-bottom:1px solid #ccc; margin:auto; font-size:15px; color:#777172; line-height:38px; }
+.qa_topic_div a{  font-size:16px; color:#777172; line-height:40px;}
+.pr30{ padding-right:30px;}
+.w150{ width:150px;}
+.w560{ width:560px;}
+
+.Skill{ width:360px; height:auto; padding:20px 0px;margin:10px auto; float:left;}
+.Skill p{ font-size:18px; line-height:30px; color:#555;}
+.Skill p strong{ font-size:18px; line-height:30px; color:#222222;}
+
+.main_list{ width:660px; height:auto; margin:20px auto; float:right; }
+.main_list li{ width:180px;height:auto; float:left; margin:10px; }
+.main_list li img{ width:180px; height:auto; }
+.main_list h2{ font-size:24px; line-height:50px; color:#09F; font-weight:normal; border-bottom:1px dotted #0CF;}
+
+.video{ width:1100px; height:auto; padding:20px 0px; margin:auto;}
+.video h2{ font-size:24px; line-height:50px; color:#09F; font-weight:normal;border-bottom:1px dotted #0CF; margin-bottom:10px;}
+
+
+.VIDEOS{ width:1100px; height:auto; padding:20px 0px; margin:10px auto; text-align:center;}
+.VIDEOSmain{ width:1100px; height:auto; padding:20px 0px; margin:auto;}
+.VIDEOSb{ width:330px; height:auto; float:left; text-align:center; margin:10px;}
+
+
+.Resume{ width:1000px; height:auto; padding:20px 0px; margin:auto;}
+.Resumel{width:450px; height:auto; float:left; }
+.Resumel img{width:450px; border:5px solid #ddd;}
+.Resumer{ position:absolute;width:550px; margin-left:500px;}
+.Resumer p{ font-size:24px; line-height:50px; color:#555;}
+.Resumer p strong{ font-size:24px; line-height:50px; color:#222222;}
+
+
+
+.Experience{ width:1000px; height:auto; padding:20px 0px; margin:auto;}
+.Experience p{ font-size:18px; line-height:30px; color:#555;}
+.Experience p strong{font-size:22px; line-height:50px; color:#222222;}
+
+.Education{ width:800px; height:auto; padding:20px 0px; margin:auto;}
+.Education p{ font-size:18px; line-height:30px; color:#555;}
+.Education p strong{ font-size:22px; line-height:50px; color:#222222;}
+
+
+
+/*----------------foot-----------------*/
+
+.foot{width:100%; height:auto; min-height:200px; margin:auto;background:url(../images/foot.jpg) top center no-repeat ;background-size:100% 100%; }
+.foot_in{ width:1000px; height:auto; padding:50px 0px; margin:auto;}
+.foot_in p{ font-size:20px; line-height:32px; color:#fff; font-family:宋体; text-align:center; }
+
+
+
+
