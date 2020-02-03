@@ -1,11 +1,11 @@
 
-.kobe3.png {
+.kobe3 {
 	position:absolute;
 	top:0;
 	left:0;
 	width:100vw;
 	height:100vw;
-	background-image:url("bg.jpg");
+	background-image:url("kobe3.png");
 	background-size:cover;
 	background-position:center;
 
