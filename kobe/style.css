@@ -12,21 +12,12 @@ body {
 	left:0;
 	width:100vw;
 	height:100vw;
-	background-image:url("kobe1.png");
+	background-image:url("kobe2.png");
 	background-size:cover;
 	background-position:center;
 
 }
 
-.ball {
-	position:absolute;
-	top:0;
-	left:0;
-	width:100vw;
-	height:100vw;
-	background-image:url("ball.png");
-	background-size:cover;
-	background-position:center;
 
 }
 }
