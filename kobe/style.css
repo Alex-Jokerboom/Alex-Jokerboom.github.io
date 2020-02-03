@@ -11,13 +11,9 @@ body {
 	top:0;
 	left:0;
 	width:100vw;
-	height:100vw;
+	height:100vh;
 	background-image:url("kobe2.png");
 	background-size:cover;
 	background-position:center;
 
-}
-
-
-}
 }
