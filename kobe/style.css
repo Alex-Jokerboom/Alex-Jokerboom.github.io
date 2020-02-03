@@ -1,0 +1,13 @@
+
+.kobe3.png {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100vw;
+	height:100vw;
+	background-image:url("bg.jpg");
+	background-size:cover;
+	background-position:center;
+
+}
+}
