@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/style.css" rel="stylesheet" />
+<title>people</title>
+</head>
+
+<body>
+
+
+<style> 
+div
+{
+	width:800px;
+	height:200px;
+	background:fff;
+	position:relative;
+	animation:mymove 8s   forwards ;
+	-webkit-animation:mymove 8s forwards;
+	 
+}
+
+
+@keyframes mymove
+{
+	0%{left:0px;}  
+ 	100%{left:100px;}  
+
+}
+
+
+
+@-webkit-keyframes mymove /*Safari and Chrome*/
+{
+	from {left:0px;}
+	to {left:200px;}
+}
+</style>
+
+
+
+<div class="people">
+  
+  <div class="people-in"><a href="#"><img src="images/people.png"  width="600"/></a></div>
+   <div class="clear"></div>
+</div>
+</body>
+</html>
