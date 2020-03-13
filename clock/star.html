@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+.star{width:464px;height:464px; background:url(images/star_bj.png) top center no-repeat;}
+.star_on{width:200px;height:222px;}
+
+div .star_on
+{
+width:460px;
+height:460px;
+background:url(images/star.png) top center no-repeat;;
+position:relative;
+animation:star_on infinite;
+animation-duration:2s;
+
+/* Safari and Chrome */
+-webkit-animation:star_on infinite;
+-webkit-animation-duration:2s;
+}
+
+@keyframes star_on
+{
+from {top:-150px;right:-150px;}
+to {top:250px;right:250px;}
+}
+
+@-webkit-keyframes star_on /* Safari and Chrome */
+{
+from {top:-150px;right:-150px;}
+to {top:250px;right:250px;}
+}
+</style>
+</head>
+<body>
+
+ 
+<div class="star">
+<div class="star_on"> </div>
+
+
+ </div>
+
+ 
+</body>
+</html>

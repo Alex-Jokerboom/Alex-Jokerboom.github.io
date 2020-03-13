@@ -1,0 +1,41 @@
+﻿
+
+*{ margin:0; padding:0;}
+.clear{ clear:both;}
+img{ border:none;}
+body{ background:#fff;}
+
+.con{ width:1400px; height:464px; margin:auto; margin-top:100px;}
+
+
+.summer{ width:464px; height:464px;  float:left; overflow:hidden; background:url(../images/summer.png) top center no-repeat;}
+
+
+.flower{ width:440px; height:auto; margin-right:0px;text-align:right; padding-top:335px;}
+
+
+.winter{ width:464px; height:464px; float:left; overflow:hidden; background:url(../images/winter.png) top center no-repeat;}
+
+
+.flower2{ width:205px; height:auto; margin: 0px; text-align:left; padding-top:290px; margin-left:-30px;}
+
+
+.star{ width:464px; height:464px;  float:left; overflow:hidden; background:url(../images/star_bj.png) top center no-repeat;}
+
+.people{ width:464px; height:200px; margin:10px; float:left; text-align:center; }
+.people-in{ width:464px; height:200px; margin:10px; text-align:center; }
+
+
+
+
+.people{ width:464px; height:200px; margin:10px;  float:left; text-align:center; }
+.people-in{ width:464px; height:200px; margin:10px; text-align:center; }
+
+
+
+
+
+
+
+
+
