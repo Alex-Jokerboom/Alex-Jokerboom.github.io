@@ -25,6 +25,8 @@ a:hover {
 h1, h2, h3, h4, h5 {
   color: #000;
 }
+.center{ text-align:center}
+.video{ width:90%; height:auto; margin:auto; text-align:center;}
 
 .btn, .form-control {
   outline: none;
